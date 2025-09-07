@@ -8,16 +8,16 @@ with separate **Producer** and **Consumer** projects, and a shared
 
 ## **Table of Contents**
 
-1.  [Project Structure](#project-structure)\
-2.  [Technologies Used](#technologies-used)\
-3.  [Prerequisites](#prerequisites)\
-4.  [Setup Instructions](#setup-instructions)\
-5.  [Running the Consumer](#running-the-consumer)\
-6.  [Running the Producer](#running-the-producer)\
-7.  [How it Works](#how-it-works)\
-8.  [Key Points](#key-points)\
-9.  [Testing](#testing)\
-10. [License](#license)\
+1.  [Project Structure](#project-structure)
+2.  [Technologies Used](#technologies-used)
+3.  [Prerequisites](#prerequisites)
+4.  [Setup Instructions](#setup-instructions)
+5.  [Running the Consumer](#running-the-consumer)
+6.  [Running the Producer](#running-the-producer)
+7.  [How it Works](#how-it-works)
+8.  [Key Points](#key-points)
+9.  [Testing](#testing)
+10. [License](#license)
 11. [Author](#author)
 
 ------------------------------------------------------------------------
@@ -37,10 +37,10 @@ with separate **Producer** and **Consumer** projects, and a shared
 
 ## **Technologies Used**
 
--   .NET 8\
--   MassTransit\
--   RabbitMQ\
--   Entity Framework Core\
+-   .NET 8
+-   MassTransit
+-   RabbitMQ
+-   Entity Framework Core
 -   C#
 
 ------------------------------------------------------------------------
